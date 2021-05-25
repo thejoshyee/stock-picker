@@ -16,4 +16,23 @@ def stock_picker(prices)
 
 end
 
-stock_picker([17,3,6,9,15,8,6,1,10])
+stock_picker([17,3,1,2])
+
+#price1 = 17, index1 = 0 
+#price2 = 3, index2 = 1
+# 3 - 17 = -14
+
+#price1 = 3, index1 = 1
+#price2 = 1, index2 = 2
+# 1 - 3 = -2 
+
+#price1 = 1, index1 = 2
+#price2 = 2, index2 = 3
+# 2-1 = 1
+
+#buy on day 2 sell on day 3 for 1 dollar profit
+
+
+
+
+
